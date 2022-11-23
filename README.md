@@ -27,13 +27,12 @@ This project was built using these technologies.
 
 ** Fully Responsive**
 
-## Getting Started
 
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
+
 
 ## 🛠 Installation and Setup Instructions
 
-Portfolio doesn't require any installation, use this link to view portfolio
+Portfolio doesn't require any installation, [use this link to view portfolio](https://mimimoha.github.io/React-Portfolio/)
 
 
 ## Credits 
