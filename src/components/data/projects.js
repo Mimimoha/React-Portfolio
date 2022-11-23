@@ -6,7 +6,7 @@ export const ProjectData=[
         tags:["Javascript", "PWA",],
         demo:"https://pwa-texteditor-production.up.railway.app",
         github:"https://github.com/Mimimoha/pwa-texteditor",
-        // image:"https://github.com/ThantZinPhyo-OP/lisandromartinez/raw/main/previews.png",
+        image: require ("../../assets/images/pwa-texteditor.png"),
     },
     {
         id:1,
@@ -24,6 +24,6 @@ export const ProjectData=[
         tags:["Slack-Carouel", "handlebars", "Bootstrap", "express/express-session"," MySQL2 & Sequelize", " bcrypt"],
         demo:"https://github.com/hoffh-5334/propertyManager",
         github:"https://github.com/hoffh-5334/propertyManager",
-        image: "https://github.com/hoffh-5334/propertyManager/blob/main/public/images/screenshot-homepage.png",
+        image: require ("../../assets/images/screenshot-homepage.png"),
     },
 ];

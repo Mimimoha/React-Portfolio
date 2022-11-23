@@ -1,9 +1,9 @@
 import React from "react";
-import "./work.css";
+import "./resume.css";
 import Separator from "../../common/separator";
 import {WorkData} from "../../data/work";
-import WorkCard from "./work-card";
-function Work() {
+import ResumeCard from "./resume-card";
+function Resume() {
   const data = WorkData;
   return (
     <div className="work">
@@ -11,11 +11,11 @@ function Work() {
       <label className="section-title">Expériences</label>
       <div className="work-list">
         {data.map((item) => {
-          return <WorkCard item={item} />;
+          return <ResumeCard item={item} />;
         })}
       </div>
     </div>
   );  
 }
 
-export default Work;
+export default Resume;

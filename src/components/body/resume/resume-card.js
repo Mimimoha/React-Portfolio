@@ -1,6 +1,6 @@
 import React from "react";
-import "./work-card.css";
-function WorkCard ({ item }) {
+import "./resume-card.css";
+function ResumeCard ({ item }) {
   return (
     <div className="work-card">
       <img src={item.companyLogo}className="work-logo" />
@@ -17,4 +17,4 @@ function WorkCard ({ item }) {
   );
 }
 
-export default WorkCard;
+export default ResumeCard;
