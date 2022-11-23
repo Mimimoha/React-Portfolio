@@ -6,7 +6,7 @@ function About() {
     <div className="about">
       <div className="about-top">
         <div className="about-info">
-          <br /> <span className="info-name">welcome to my Portfolio </span>.
+          <br /> <span className="info-name">Welcome to my Portfolio </span>.
           <br />I'm a Full Stack Web Developer with
           extensive knowledge in backend and
           front end application development.
