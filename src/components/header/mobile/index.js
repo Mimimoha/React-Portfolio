@@ -7,23 +7,23 @@ function Mobile({ isOpen, setIsOpen}) {
       <i class="fi-rr-cross-circle"></i>
     </div>
     <div className="mobile-option">
-    <a href="#projects" >
-          <i class="fi-rr-edit-alt option-icon"></i>Projects
+    <a href="/" >
+          <i class="fi-rr-edit-alt option-icon"></i>About
         </a>
     </div>
     <div className="mobile-option">
-        <a href="#skills">
-        <i class="fi-rr-laptop option-icon"></i>Skills
+        <a href="projects">
+        <i class="fi-rr-laptop option-icon"></i>Projects
         </a>
     </div>
     <div className="mobile-option">
-        <a href="#work">
-        <i class="fi-rr-briefcase option-icon"></i>Work
+        <a href="contact">
+        <i class="fi-rr-briefcase option-icon"></i>contact
         </a>
     </div>
     <div className="mobile-option">
-        <a href="#contact">
-        <i class="fi fi-rr-user option-icon"></i>Contact
+        <a href="/MariamMohamed.pdf" download>
+        <i class="fi fi-rr-user option-icon"></i>Resume
         </a>
     </div>
   </div>
