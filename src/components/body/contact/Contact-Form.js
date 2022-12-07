@@ -25,7 +25,7 @@ function ContactForm() {
 
                 <Form.Group className="mb-3">
                     <Form.Label>Message</Form.Label>
-                    <Form.Control type="text" placeholder="Your Message" name="message" value={userData.message} onChange={handleInputChange} />
+                    <Form.Control  type="text-area" placeholder="Your Message" name="message" value={userData.message} onChange={handleInputChange} />
                 </Form.Group>
                 <Button variant="primary" type="submit">
                     Submit

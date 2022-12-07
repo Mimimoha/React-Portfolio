@@ -1,6 +1,15 @@
 export const ProjectData=[
     {
         id:1,
+        title:"MachDev",
+        about: "MachDev is a web application that provides a way to dynamically generate a company website using information stored in a MongoDB.",
+        tags:["MongoDB","Node/Express","Sematic UI React/Bootstrap","Javascript","Heroku", "Github", "Figma", "Trello"],
+        demo:"https://machdev.herokuapp.com/",
+        github:"https://github.com/AaronVenema/machdev",
+        image: require ("../../assets/images/machdev-Demo.gif"),
+    },
+    {
+        id:1,
         title:"MMHD Property Managment",
         about: "MMHD Residences Property Management is an apartment complex offering luxury apartments and a quality management team. The website features both unrestricted content for potential tenants and restricted access to a user dashboard for current tenants and management.",
         tags:["Slack-Carouel", "handlebars", "Bootstrap", "express/express-session"," MySQL2 & Sequelize", " bcrypt"],
