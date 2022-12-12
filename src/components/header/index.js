@@ -7,7 +7,7 @@ import Web from "./web/index";
 function Header() {
   const [isOpen, setIsOpen]=useState(false);
   return (
-    <div className="header" bg="dark" >
+    <div className="header">
       <div className="logo">Mariam Mohamed</div>
       <div className="menu">
         <div className="web-menu">
