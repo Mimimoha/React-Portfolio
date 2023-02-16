@@ -19,7 +19,7 @@ function Web() {
         </a>
     </div>
     <div className="web-option">
-        <a href="/resume" >
+        <a href="/MariamMohamed.pdf" >
         <i class="fi-rr-briefcase option-icon"></i>Resume
         </a>
     </div>
